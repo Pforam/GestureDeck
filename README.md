@@ -104,8 +104,8 @@ Make sure `assets/hand_landmarker.task` is present. If the application reports t
 
 ## Contributors
 
+- **Stuti Mistry**
 - **Foram Patel**
-- **Stuti**
 
 ## Project status
 
