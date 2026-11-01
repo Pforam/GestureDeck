@@ -1,0 +1,5 @@
+# GestureDeck runtime dependencies
+opencv-python
+mediapipe
+pyautogui
+numpy
